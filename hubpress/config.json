@@ -10,7 +10,7 @@
   "urls": {
     "site": "https://fuhrerscene.github.io",
     "hubpress": "https://fuhrerscene.github.io",
-    "theme": "//fuhrerscene.github.io/themes/casper",
+    "theme": "//fuhrerscene.github.io/themes/the-shell",
     "images": "https://fuhrerscene.github.io/images"
   },
   "initialisationConfigComponent": {
