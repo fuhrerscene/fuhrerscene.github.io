@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ghostium"
+    "name": "the-shell"
   },
   "urls": {
     "site": "https://fuhrerscene.github.io",
     "hubpress": "https://fuhrerscene.github.io",
-    "theme": "//fuhrerscene.github.io/themes/the-shell",
+    "theme": "//fuhrerscene.github.io/themes/ghostium",
     "images": "https://fuhrerscene.github.io/images"
   },
   "initialisationConfigComponent": {
